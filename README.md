@@ -1,8 +1,8 @@
 # Cloud Zoom for Drupal
 
-[Cloud zoom drupal module](https://www.drupal.org/project/cloud_zoom) with colorbox support. 
+This is an updated version of the [Cloud zoom](https://www.drupal.org/project/cloud_zoom) drupal module that adds the following issues:
 
-# Related issues
+# Fixed Issues
 
 https://www.drupal.org/node/1269026
 
