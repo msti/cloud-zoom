@@ -1,6 +1,6 @@
 # Cloud Zoom for Drupal
 
-This is an updated version of the [Cloud zoom](https://www.drupal.org/project/cloud_zoom) drupal module that adds the following issues:
+This is an updated version of the [Cloud zoom](https://www.drupal.org/project/cloud_zoom) drupal module that fixes the following issues:
 
 # Fixed Issues
 
